@@ -4,7 +4,7 @@
 
 soong_namespace {
     imports: [
-        "hardware/qcom/sdm845",
+        "hardware/qcom/sdm845/display",
         "hardware/xiaomi",
         "vendor/xiaomi/sdm710-common",
     ],
