@@ -171,7 +171,6 @@ PRODUCT_PACKAGES += \
     com.xiaomi.node.mibokeh \
     com.xiaomi.node.mifragment \
     com.xiaomi.node.misegment \
-    audio.primary.grus \
     camera.qcom \
     com.qti.chi.override \
     libFaceGrade \
@@ -180,7 +179,6 @@ PRODUCT_PACKAGES += \
     libVDSuperPhotoAPI \
     libXMFD_AgeGender \
     lib_denoiser3 \
-    libadm \
     libalCFR \
     libalLDC \
     libalRnBRT_GL_GBWRAPPER \
@@ -200,8 +198,6 @@ PRODUCT_PACKAGES += \
     libarcsoft_portrait_lighting \
     libarcsoft_portrait_lighting_c \
     libarcsoft_supernight \
-    libaudio_log_utils \
-    libaudioroute_ext \
     libc++_shared \
     libcamera_nn_stub \
     libcamera_scene \
@@ -221,7 +217,6 @@ PRODUCT_PACKAGES += \
     libsymphony-cpu \
     libsymphonypower \
     libvidhance \
-    libxlog \
     android.hardware.gatekeeper@1.0-impl-qti \
     fingerprint.goodix_fod.default \
     vendor.qti.hardware.sensorscalibrate@1.0-impl \
@@ -262,8 +257,6 @@ PRODUCT_PACKAGES += \
     misound_karaoke_res \
     misound_karaokemix_res \
     misound_res \
-    liba2dpoffload_odm \
-    libssrec_odm \
     android.hardware.gatekeeper@1.0-service-qti \
     android.hardware.keymaster@4.0-service-qti \
     vendor.qti.hardware.sensorscalibrate@1.0-service \
